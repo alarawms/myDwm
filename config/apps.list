@@ -1,5 +1,4 @@
 build-essential 
-golang-go
 apt-transport-https
 blueman
 ca-certificates curl 
@@ -26,7 +25,6 @@ mime-support
 moc
 numlockx
 pcmanfm
-qpdfview
 slop
 software-properties-common
 vim
@@ -45,7 +43,7 @@ jq
 ripgrep
 minify
 expect
-owncloud-client
 v4l-utils
 v4l2loopback-dkms
-
+emacs
+redshift
